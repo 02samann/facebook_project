@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "E:/websayt"
+		},
+		{
+			"path": "E:/project dynamic"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.acceptSuggestionOnEnter": "on",
+		"liveServer.settings.multiRootWorkspaceName": "facebook pro"
+	}
+}
